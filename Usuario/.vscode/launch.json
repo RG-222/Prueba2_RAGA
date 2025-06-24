@@ -1,13 +1,14 @@
-
+{
     "configurations": [
         {
             "type": "java",
-            "name": "Spring Boot-CarritoApplication<demo>",
+            "name": "Spring Boot-ProyectoPerfulandiaApplication<demo>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
-            "mainClass": "com.example.demo.Carrito.CarritoApplication",
+            "mainClass": "com.example.demo.ProyectoPerfulandiaApplication",
             "projectName": "demo",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
         }
     ]
+}
